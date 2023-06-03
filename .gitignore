@@ -1,0 +1,5 @@
+/.cpcache
+/.clj-kondo
+/.idea
+/.lsp
+/shadow-kit.iml

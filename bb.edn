@@ -1,0 +1,1 @@
+{:tasks {test (println "TODO: write some awesome tests")}}

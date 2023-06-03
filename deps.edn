@@ -1,0 +1,5 @@
+{:paths   ["src/main/clojure"]
+ :aliases {:dev {:extra-paths ["src/dev/clojure"]
+                 :extra-deps  {thheller/shadow-cljs {:mvn/version "2.22.10"}
+                               garden/garden        {:git/url "https://github.com/noprompt/garden"
+                                                     :sha     "05590ecb5f6fa670856f3d1ab400aa4961047480"}}}}}
