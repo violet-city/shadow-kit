@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps  {io.github.violet-city/shadow-kit {:local/root "../../"}}}
